@@ -27,7 +27,7 @@
   <li>Задача №2.</li>собрать калькулятор юнит-экономики продукта.
 </ol>
 <p>Как решала(-а): краткое описание решения (автореферат)<p>
-> <a href="https://drive.google.com/drive/folders/11HcEeqniyrCMjuwHZ0GLysX0A2SEv-_x">Ссылка на проект</a> href="https://drive.google.com/drive/folders/13ClkeeeRb03ZmToVNpTS_4js2dwQkMpI
+> <a href="https://drive.google.com/drive/folders/11HcEeqniyrCMjuwHZ0GLysX0A2SEv-_x">Ссылка на проект</a> https://drive.google.com/drive/folders/13ClkeeeRb03ZmToVNpTS_4js2dwQkMpI
  
 <p>Выводы (итоги):<p>
 <ol>
@@ -44,7 +44,7 @@
 </ol>
 <p>Как решала(-а): краткое описание решения (автореферат)<p>
   
-> <a href="https://drive.google.com/drive/folders/1wdD-mfSeIsHWgrMLJz8Tv_ClAuP_EAOQ?usp=sharing">Ссылка на проект</a> href=https://docs.google.com/spreadsheets/d/1nA3McvSpvxc7xGS6gOKw7PbDhE8rwtym/edit?usp=sharing&ouid=108984622811410606552&rtpof=true&sd=true
+> <a href="https://drive.google.com/drive/folders/1wdD-mfSeIsHWgrMLJz8Tv_ClAuP_EAOQ?usp=sharing">Ссылка на проект</a> https://docs.google.com/spreadsheets/d/1nA3McvSpvxc7xGS6gOKw7PbDhE8rwtym/edit?usp=sharing&ouid=108984622811410606552&rtpof=true&sd=true
   <p>Выводы (итоги):<p>
 <ol>
   <li>Итог №1</li>
@@ -59,8 +59,8 @@
 </ol>
 <p>Как решала(-а): краткое описание решения (автореферат)<p>
 
-> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%205.xlsx">Ссылка на проект</a> href=https://docs.google.com/spreadsheets/d/1pdnht9o4_5XZVhg8pyoh4Mhzv1eyIz7z/edit?usp=sharing&ouid=108984622811410606552&rtpof=true&sd=true
-> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%205.xlsx">Ссылка на проект</a> href=https://metabase.sky.pro/question/73972
+> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%205.xlsx">Ссылка на проект</a> https://docs.google.com/spreadsheets/d/1pdnht9o4_5XZVhg8pyoh4Mhzv1eyIz7z/edit?usp=sharing&ouid=108984622811410606552&rtpof=true&sd=true
+> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%205.xlsx">Ссылка на проект</a> https://metabase.sky.pro/question/73972
 <br>
   
  <p>Выводы (итоги):<p>
