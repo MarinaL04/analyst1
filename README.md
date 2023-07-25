@@ -71,6 +71,4 @@
   <li>Итог №2</li>
 </ol>
 ## Контактная информация
-- Email: name@email.com
-- LinkedIn: https://www.linkedin.com/in/username/
-- Личный сайт: https://www.username.com
+- Email: marinaos04@yandex.ru
