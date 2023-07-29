@@ -15,14 +15,15 @@
 https://drive.google.com/drive/folders/13ClkeeeRb03ZmToVNpTS_4js2dwQkMpI
 <br> 
   
-<p> Проект 2: Моделирование изменения балансов студентов</p> 
-<p> Цель смоделировать изменение балансов студентов сервиса Skyeng, осуществить проверку данных, cоздайть визуализацию итогового результата и сделать по ним выводы об изменении балансов пользователей
-<ol> Ссылки на проект, а так же полученные выводы по результам их анализа:
+Проект 2: Моделирование изменения балансов студентов</p> 
 
-> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%205.xlsx"></a> https://docs.google.com/spreadsheets/d/1pdnht9o4_5XZVhg8pyoh4Mhzv1eyIz7z/edit?usp=sharing&ouid=108984622811410606552&rtpof=true&sd=true
-> 
-> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%205.xlsx"></a> https://metabase.sky.pro/question/73972
-<br>
+Цель смоделировать изменение балансов студентов сервиса Skyeng, осуществить проверку данных, cоздайть визуализацию итогового результата и сделать по ним выводы об изменении балансов пользователей
+
+Ссылки на проект, а так же полученные выводы по результам их анализа:
+
+https://docs.google.com/spreadsheets/d/1pdnht9o4_5XZVhg8pyoh4Mhzv1eyIz7z/edit?usp=sharing&ouid=108984622811410606552&rtpof=true&sd=true
+
+https://metabase.sky.pro/question/73972
 
 ## Контактная информация
 - Email: marinaos04@yandex.ru
