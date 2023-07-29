@@ -24,11 +24,11 @@ https://drive.google.com/drive/folders/13ClkeeeRb03ZmToVNpTS_4js2dwQkMpI
 
 Ссылки на проект:
 
-https://docs.google.com/spreadsheets/d/1pdnht9o4_5XZVhg8pyoh4Mhzv1eyIz7z/edit?usp=sharing&ouid=108984622811410606552&rtpof=true&sd=true
-
 https://docs.google.com/document/d/1Q49fa7LPX9nUY1glfAicR1EOPebIV9rK/edit?usp=sharing&ouid=108984622811410606552&rtpof=true&sd=true
 
-Итог: провели анализ изменения баланса студентов сервиса Skyeng
+https://docs.google.com/spreadsheets/d/1pdnht9o4_5XZVhg8pyoh4Mhzv1eyIz7z/edit?usp=sharing&ouid=108984622811410606552&rtpof=true&sd=true
+
+Итог: в результате проведенного анализа были выявлены недочеты в базе данных, а так произведена оценка пользовательской активности относительно разных периодов как относительно сезонна, так и относительно дней недели.
 
 ## Контактная информация
 - Email: marinaos04@yandex.ru
